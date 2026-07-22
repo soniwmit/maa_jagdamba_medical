@@ -1,0 +1,6 @@
+{
+  "name": "Maa Jagdamba Medical",
+  "description": "Maa Jagdamba Medical is your trusted pharmacy in Bela, Chariyari, Makhdumpur, Bihar. Providing 100% genuine medicines, surgical supplies, baby care, personal care, and healthcare essentials at affordable prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
